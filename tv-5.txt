@@ -1051,13 +1051,15 @@ CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+咪咕1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕1,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕1,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227107/index.m3u8
+咪咕1,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
 咪咕1,http://117.136.156.71:80/000000001000/3000000001000028638/index.m3u8
 咪咕1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
 咪咕4,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
-超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
-超级体育4M,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 
 NewTV,#genre#
 NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
