@@ -46,35 +46,7 @@
     "guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
     "zhuyejiekou": [
         {
-            "name": "创艺观(APP)",
-            "url": "http://www.30dian.cn/api.php/v1.vod"
-        },
-        {
-            "name": "兔子窝(APP)",
-            "url": "http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"
-        },
-        {
-            "name": "淘剧社(APP)",
-            "url": "https://app.shuhai99.com/api.php/v1.vod"
-        },
-        {
-            "name": "看剧吧(APP)",
-            "url": "http://app.ishen520.com/api.php/v1.vod"
-        },
-        {
-            "name": "玖卿乐播(APP)",
-            "url": "https://vod.nqcode.cn/api.php/v1.vod"
-        },
-        {
-            "name": "佳佳影视(APP)",
-            "url": "https://www.jiajia.pub/api.php/v1.vod"
-        },
-        {
-            "name": "暖光影视(APP)",
-            "url": "https://app.bl210.com/api.php/v1.vod"
-        },
-        {
-            "name": "爱酷影院(APP)",
+            "name": "cs(APP)",
             "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
         }
     ],
@@ -84,11 +56,11 @@
             "url": "http://api.kunyu77.com/api.php"
         },
         {
-            "name": "樱花资源",
+            "name": "樱花资源(采集)",
             "url": "https://m3u8.apiyhzy.com/api.php"
         },
         {
-            "name": "快播资源",
+            "name": "快播资源(采集)",
             "url": "http://www.kuaibozy.com/api.php"
         }
     ],
